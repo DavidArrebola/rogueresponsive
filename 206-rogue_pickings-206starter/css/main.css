@@ -200,7 +200,7 @@ footer span {
 	}
 
 .bottom-section {
-	justify-content: space-between;
+	justify-content: center;
 	align-items: flex-start;
 }
 
