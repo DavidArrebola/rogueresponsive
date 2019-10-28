@@ -182,7 +182,7 @@ footer span {
 	font-size: 0.875em;
 }
 
-/* BREAKPOINTS */
+/* BREAKPOINTS (Hopefully) */
 
 @media all and (min-width:768px) {
 	/* TABLET */
